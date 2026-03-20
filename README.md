@@ -358,3 +358,6 @@ Optional constructor arguments: `data_path`, `split_config`, `num_workers`, `tra
 - Lawhern et al. (2018). EEGNet: a compact convolutional neural network for EEG-based brain–computer interfaces. *Journal of Neural Engineering*, 15(5).
 - Ingolfsson et al. (2020). EEG-TCNet: An Accurate Temporal Convolutional Network for Embedded Motor-Imagery Brain–Machine Interfaces. *arXiv:2006.00622*.
 - BCI Competition IV Dataset 2a: http://www.bbci.de/competition/iv/
+
+
+*Developed collaboratively with 3 teammates.*
