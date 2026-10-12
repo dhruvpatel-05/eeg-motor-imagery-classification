@@ -5,6 +5,8 @@ A benchmark comparing neural network architectures for classifying imagined move
 **Task:** 4-class motor imagery — left hand, right hand, both feet, tongue.
 **Dataset:** BCI Competition IV Dataset 2a — 9 subjects, 22 EEG channels, 288 trials per subject.
 
+Final Report can be found [here](Final_Report.pdf).
+
 ---
 
 ## Repository Structure
